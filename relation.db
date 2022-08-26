@@ -1,0 +1,7 @@
+{"name":"shanti kumar saha","_id":"4Dm7yfn561CRPXzw","friend":["kamalnath sharma","bhaskar","ayaushi","riley"]}
+{"name":"jackey","_id":"8mRkYorRUnpSLKhW","friend":["sameer","riley","ayaushi"]}
+{"name":"riley","_id":"BmxgQkmhR1bu9KIE","friend":["jackey","jackey","kamalnath sharma","shanti kumar saha"]}
+{"name":"kamalnath sharma","_id":"XmvhJ5QycaZlOkkp","friend":["sameer","shanti kumar saha","riley"]}
+{"name":"ayaushi","_id":"eQaivYGI5GBaUZHh","friend":["bhaskar","jackey","shanti kumar saha"]}
+{"name":"sameer","_id":"nVVSp6Bg50MpaXal","friend":["ayaushi","kamalnath sharma"]}
+{"name":"bhaskar","_id":"thLMLJEms91UEkzv","friend":["shanti kumar saha"]}
